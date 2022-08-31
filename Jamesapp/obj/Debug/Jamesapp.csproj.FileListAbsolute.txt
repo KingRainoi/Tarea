@@ -1,0 +1,7 @@
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\bin\Debug\Jamesapp.exe.config
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\bin\Debug\Jamesapp.exe
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\bin\Debug\Jamesapp.pdb
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\obj\Debug\Jamesapp.csproj.AssemblyReference.cache
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\obj\Debug\Jamesapp.csproj.CoreCompileInputs.cache
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\obj\Debug\Jamesapp.exe
+D:\TareasUniversidadSemestre5\Ingeniería en software\Parcial1\Jamesapp\obj\Debug\Jamesapp.pdb
